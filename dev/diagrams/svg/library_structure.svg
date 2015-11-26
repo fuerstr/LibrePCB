@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="57cm" height="35cm" viewBox="158 58 1123 683" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="57cm" height="42cm" viewBox="158 58 1123 823" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect style="fill: #f1f1f1" x="160" y="60" width="1120" height="680" rx="20" ry="20"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="160" y="60" width="1120" height="680" rx="20" ry="20"/>
+    <rect style="fill: #f1f1f1" x="160" y="60" width="1120" height="820" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="160" y="60" width="1120" height="820" rx="20" ry="20"/>
   </g>
   <g>
     <rect style="fill: #e7e9ff" x="740" y="100" width="500" height="280" rx="20" ry="20"/>
@@ -29,28 +29,12 @@
     </text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="220" y="260" width="99.25" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="220" y="260" width="99.25" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="269.625" y="281.9">
-      <tspan x="269.625" y="281.9">SPICE Model</tspan>
-    </text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1136.23,201.172 1136.23,400 1140,400 1140,439.011 "/>
-    <polygon style="fill: #ffffff" points="1136.23,176 1141.03,190 1136.23,204 1131.43,190 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1136.23,176 1141.03,190 1136.23,204 1131.43,190 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1138.11" y="396"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1147.23" y="188"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1140.23,281.172 1140.23,400 1140,400 1140,439.011 "/>
+    <polygon style="fill: #ffffff" points="1140.23,256 1145.03,270 1140.23,284 1135.43,270 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1140.23,256 1145.03,270 1140.23,284 1135.43,270 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1140.11" y="396"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1151.23" y="268"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1144" y="435.011">1</text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,201.172 487.176,220 269.625,220 269.625,259.011 "/>
-    <polygon style="fill: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="378.4" y="216"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="498.176" y="188">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="273.625" y="239.011"> &lt;&lt;OR&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="273.625" y="255.011">0..*</text>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1140,501.172 1140,560 800.275,560 800.275,599.011 "/>
@@ -62,50 +46,40 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="804.275" y="595.011">0..*</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="440" y="140" width="94.35" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="440" y="140" width="94.35" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.175" y="161.9">
-      <tspan x="487.175" y="161.9">Component</tspan>
+    <rect style="fill: #ffffff" x="460" y="140" width="94.35" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="140" width="94.35" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="507.175" y="161.9">
+      <tspan x="507.175" y="161.9">Component</tspan>
     </text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="559.522,158 720,158 720,80 1136.23,80 1136.23,140 "/>
-    <polygon style="fill: #000000" points="534.35,158 548.35,153.2 562.35,158 548.35,162.8 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="534.35,158 548.35,153.2 562.35,158 548.35,162.8 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="928.113" y="76"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="566.35" y="154">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1140.23" y="120"> &lt;&lt;OR&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1140.23" y="136">0..*</text>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.522,158 720,158 720,80 1140.23,80 1140.23,220 "/>
+    <polygon style="fill: #000000" points="554.35,158 568.35,153.2 582.35,158 568.35,162.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="554.35,158 568.35,153.2 582.35,158 568.35,162.8 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="930.113" y="76"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="586.35" y="154">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1144.23" y="200"> &lt;&lt;OR&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1144.23" y="216">0..*</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="870" y="320" width="99.25" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="870" y="320" width="99.25" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="919.625" y="341.9">
-      <tspan x="919.625" y="341.9">SPICE Model</tspan>
-    </text>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,201.172 507.176,220 398.576,220 398.576,260 "/>
+    <polygon style="fill: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="452.876" y="216"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518.176" y="188">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="402.576" y="240"> &lt;&lt;OR&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="402.576" y="256">1..*</text>
   </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,201.172 487.176,220 438.576,220 438.576,260 "/>
-    <polygon style="fill: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="462.876" y="216"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="498.176" y="188">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="442.576" y="240"> &lt;&lt;OR&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="442.576" y="256">1..*</text>
-  </g>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="530" y="190">
-    <tspan x="530" y="190">e.g. "Resistor"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="550" y="190">
+    <tspan x="550" y="190">e.g. "Resistor"</tspan>
   </text>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="480">
-    <tspan x="280" y="480">e.g. "R-US", "R-EU"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="480">
+    <tspan x="240" y="480">e.g. "R-US", "R-EU"</tspan>
   </text>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="310">
-    <tspan x="210" y="310">e.g. "Ideal Resistor"</tspan>
-  </text>
-  <text font-size="10.16" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="860" y="330">
-    <tspan x="860" y="330">more specific models </tspan>
-    <tspan x="860" y="342.7">than the ones defined </tspan>
-    <tspan x="860" y="355.4">in Component</tspan>
+  <text font-size="10.16" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="1010" y="320">
+    <tspan x="1010" y="320">more specific models </tspan>
+    <tspan x="1010" y="332.7">than the ones defined </tspan>
+    <tspan x="1010" y="345.4">in Component</tspan>
   </text>
   <g>
     <rect style="fill: #ffffff" x="1100" y="600" width="80" height="36" rx="10" ry="10"/>
@@ -114,19 +88,19 @@
       <tspan x="1140" y="621.9">Footprint</tspan>
     </text>
   </g>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="310">
-    <tspan x="420" y="310">e.g. </tspan>
-    <tspan x="420" y="324.097">"american",</tspan>
-    <tspan x="420" y="338.194">"europe" </tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="310">
+    <tspan x="380" y="310">e.g. </tspan>
+    <tspan x="380" y="324.097">"american",</tspan>
+    <tspan x="380" y="338.194">"europe" </tspan>
   </text>
   <text font-size="8.51182" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="220" y="120">
     <tspan x="220" y="120">Component Directory: UUID.cmp</tspan>
   </text>
-  <text font-size="8.51182" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="450" y="340">
-    <tspan x="450" y="340">Each symbol variant contains one or more symbols.</tspan>
-    <tspan x="450" y="350.64">There can be required and optional symbols.</tspan>
-    <tspan x="450" y="361.28">All symbols of a symbol variant are needed to</tspan>
-    <tspan x="450" y="371.919">provide all signals of a component (as pins).</tspan>
+  <text font-size="8.51182" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="340">
+    <tspan x="410" y="340">Each symbol variant contains one or more symbols.</tspan>
+    <tspan x="410" y="350.64">There can be required and optional symbols.</tspan>
+    <tspan x="410" y="361.28">All symbols of a symbol variant are needed to</tspan>
+    <tspan x="410" y="371.919">provide all signals of a component (as pins).</tspan>
   </text>
   <text font-size="8.51182" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="220" y="440">
     <tspan x="220" y="440">Symbol Directory: UUID.sym</tspan>
@@ -183,48 +157,41 @@
     <tspan x="1080" y="664.097">       "ReflowSoldering",</tspan>
     <tspan x="1080" y="678.194">       "WaveSoldering"</tspan>
   </text>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="760" y="650">
-    <tspan x="760" y="650">e.g. "default",</tspan>
-    <tspan x="760" y="664.097">       "black",</tspan>
-    <tspan x="760" y="678.194">       "gray"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="750" y="650">
+    <tspan x="750" y="650">e.g. "default",</tspan>
+    <tspan x="750" y="664.097">       "black",</tspan>
+    <tspan x="750" y="678.194">       "gray"</tspan>
   </text>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="920,256 920,288 919.625,288 919.625,320 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="919.812" y="284"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="924" y="268">  </text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="924" y="284">0..*</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="923.625" y="316">0..1</text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="400" y="580" width="80" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="580" width="80" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="601.9">
-      <tspan x="440" y="601.9">Pin</tspan>
+    <rect style="fill: #ffffff" x="360" y="580" width="80" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="580" width="80" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="601.9">
+      <tspan x="400" y="601.9">Pin</tspan>
     </text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="560" y="260" width="80" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="560" y="260" width="80" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="281.9">
-      <tspan x="600" y="281.9">Signal</tspan>
+    <rect style="fill: #ffffff" x="520" y="260" width="80" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="260" width="80" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="281.9">
+      <tspan x="560" y="281.9">Signal</tspan>
     </text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,201.172 487.176,220 600,220 600,260 "/>
-    <polygon style="fill: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.176,176 491.976,190 487.176,204 482.376,190 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="543.588" y="216"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="498.176" y="188">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="604" y="240"> &lt;&lt;AND&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="604" y="256">0..*</text>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,201.172 507.176,220 560,220 560,260 "/>
+    <polygon style="fill: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="533.588" y="216"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518.176" y="188">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="564" y="240"> &lt;&lt;AND&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="564" y="256">0..*</text>
   </g>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="570" y="310">
-    <tspan x="570" y="310">e.g. "1", "2"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="530" y="310">
+    <tspan x="530" y="310">e.g. "1", "2"</tspan>
   </text>
   <g>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 555.538 278.297 C 530,280 430,260 430,400 C 430,540 428,564 437.317,576.422"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="548.124,283.803 557.769,278.149 547.458,273.825 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="428.658,573.211 438.658,578.211 436.658,567.211 "/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 515.538 278.297 C 490,280 390,260 390,400 C 390,540 388,564 397.317,576.422"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="508.124,283.803 517.769,278.149 507.458,273.825 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="388.658,573.211 398.658,578.211 396.658,567.211 "/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="920" y="600" width="80" height="36" rx="10" ry="10"/>
@@ -234,8 +201,8 @@
     </text>
   </g>
   <g>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 644.471 277.888 C 720,276 724,284 724,180 C 724,76 704,84 924,84 C 1144,84 1128,68 1130,290 C 1132,512 1132,564 1088,564 C 1044,564 1056,560 1003.64,597.401"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="652.107,272.696 642.235,277.944 652.357,282.693 "/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" d="M 604.472 277.928 C 724,276 728,296 728,188 C 728,80 704,84 924,84 C 1144,84 1128,68 1130,290 C 1132,512 1132,564 1088,564 C 1044,564 1056,560 1003.64,597.401"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="612.154,272.803 602.236,277.964 612.315,282.802 "/>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="1007.05,588.819 1001.82,598.7 1012.86,596.957 "/>
   </g>
   <g>
@@ -245,10 +212,10 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1004" y="614">0..*</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="1080" y="140" width="112.45" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1080" y="140" width="112.45" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1136.22" y="161.9">
-      <tspan x="1136.22" y="161.9">      Device      </tspan>
+    <rect style="fill: #ffffff" x="1084" y="220" width="112.45" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1084" y="220" width="112.45" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1140.23" y="241.9">
+      <tspan x="1140.23" y="241.9">      Device      </tspan>
     </text>
   </g>
   <g>
@@ -265,55 +232,46 @@
       <tspan x="1140" y="461.9">Package</tspan>
     </text>
   </g>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="600">
-    <tspan x="320" y="600">e.g. "1", "2"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="600">
+    <tspan x="280" y="600">e.g. "1", "2"</tspan>
   </text>
   <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="650">
     <tspan x="940" y="650">e.g. "1", "2"</tspan>
   </text>
   <g>
-    <rect style="fill: #ffffff" x="380" y="260" width="117.15" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="260" width="117.15" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="438.575" y="281.9">
-      <tspan x="438.575" y="281.9">Symbol Variant</tspan>
+    <rect style="fill: #ffffff" x="340" y="260" width="117.15" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="260" width="117.15" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="398.575" y="281.9">
+      <tspan x="398.575" y="281.9">Symbol Variant</tspan>
     </text>
   </g>
-  <text font-size="9.03111" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="388" y="292">
-    <tspan x="388" y="292">incl. pin-to-signal map</tspan>
+  <text font-size="9.03111" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="348" y="292">
+    <tspan x="348" y="292">incl. pin-to-signal map</tspan>
   </text>
   <g>
-    <rect style="fill: #ffffff" x="400" y="460" width="80" height="36" rx="10" ry="10"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="460" width="80" height="36" rx="10" ry="10"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="481.9">
-      <tspan x="440" y="481.9">Symbol</tspan>
+    <rect style="fill: #ffffff" x="360" y="460" width="80" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="460" width="80" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="481.9">
+      <tspan x="400" y="481.9">Symbol</tspan>
     </text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="438.576,321.172 438.576,400 440,400 440,459.014 "/>
-    <polygon style="fill: #ffffff" points="438.576,296 443.376,310 438.576,324 433.776,310 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="438.576,296 443.376,310 438.576,324 433.776,310 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="439.288" y="396"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="449.576" y="308"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="444" y="439.014"> &lt;&lt;AND&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="444" y="455.014">1..*</text>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="398.576,321.172 398.576,400 400,400 400,459.014 "/>
+    <polygon style="fill: #ffffff" points="398.576,296 403.376,310 398.576,324 393.776,310 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="398.576,296 403.376,310 398.576,324 393.776,310 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="399.288" y="396"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="409.576" y="308"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="404" y="439.014"> &lt;&lt;AND&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="404" y="455.014">1..*</text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,521.172 440,511 440,579 440,580 "/>
-    <polygon style="fill: #000000" points="440,496 444.8,510 440,524 435.2,510 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,496 444.8,510 440,524 435.2,510 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="442" y="541"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="451" y="508">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="444" y="560"> &lt;&lt;AND&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="444" y="576">0..*</text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1054.83,158 1030,158 1030,338 969.25,338 "/>
-    <polygon style="fill: #000000" points="1080,158 1066,162.8 1052,158 1066,153.2 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,158 1066,162.8 1052,158 1066,153.2 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1032" y="244"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1048" y="154">1</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="973.25" y="334"> &lt;&lt;OR&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="973.25" y="350">0..*</text>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,521.172 400,511 400,579 400,580 "/>
+    <polygon style="fill: #000000" points="400,496 404.8,510 400,524 395.2,510 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,496 404.8,510 400,524 395.2,510 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="402" y="541"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="411" y="508">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="404" y="560"> &lt;&lt;AND&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="404" y="576">0..*</text>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1140,501.172 1140,560 1140,560 1140,599.011 "/>
@@ -336,29 +294,76 @@
   <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="570">
     <tspan x="410" y="570">1..*</tspan>
   </text>
-  <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="524" y="272">
-    <tspan x="524" y="272">0..1</tspan>
+  <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="484" y="272">
+    <tspan x="484" y="272">0..1</tspan>
   </text>
   <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1040" y="596">
     <tspan x="1040" y="596">1..*</tspan>
   </text>
-  <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="644" y="268">
-    <tspan x="644" y="268">0..1</tspan>
+  <text font-size="11.2776" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="270">
+    <tspan x="620" y="270">0..1</tspan>
   </text>
-  <text font-size="9.03111" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1084" y="172">
-    <tspan x="1084" y="172">incl. pad-to-signal map</tspan>
+  <text font-size="9.03111" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1090" y="250">
+    <tspan x="1090" y="250">incl. pad-to-signal map</tspan>
   </text>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="960,238 1030,238 1030,158 1054.83,158 "/>
-    <polygon style="fill: #000000" points="1080,158 1066,162.8 1052,158 1066,153.2 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,158 1066,162.8 1052,158 1066,153.2 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1032" y="194"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="960,238 1040,238 1040,238 1058.83,238 "/>
+    <polygon style="fill: #000000" points="1084,238 1070,242.8 1056,238 1070,233.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1084,238 1070,242.8 1056,238 1070,233.2 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1040" y="234"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="964" y="234">  &lt;&lt;OR&gt;&gt;</text>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="964" y="250">0..*</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1048" y="154">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1052" y="234">1</text>
   </g>
-  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1150" y="190">
-    <tspan x="1150" y="190">e.g. "R-0603",</tspan>
-    <tspan x="1150" y="204.097">       "R-0207"</tspan>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1156" y="268">
+    <tspan x="1156" y="268">e.g. "R-0603",</tspan>
+    <tspan x="1156" y="282.097">       "R-0207"</tspan>
   </text>
+  <g>
+    <rect style="fill: #ffce8e" x="460" y="740" width="520" height="100" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="460" y="740" width="520" height="100" rx="20" ry="20"/>
+  </g>
+  <text font-size="11.2776" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="860" y="780">
+    <tspan x="860" y="780">e.g. "Ideal Resistor",</tspan>
+    <tspan x="860" y="794.097">"NE555",</tspan>
+    <tspan x="860" y="808.194">"LM358"</tspan>
+  </text>
+  <text font-size="8.51182" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="480" y="760">
+    <tspan x="480" y="760">SPICE Model Directory: UUID.spc</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="670" y="780" width="99.25" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="670" y="780" width="99.25" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="719.625" y="801.9">
+      <tspan x="719.625" y="801.9">SPICE Model</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,201.172 507.176,220 719.626,220 719.626,780 "/>
+    <polygon style="fill: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.176,176 511.976,190 507.176,204 502.376,190 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="613.401" y="216"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518.176" y="188">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.626" y="760"> &lt;&lt;OR&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.626" y="776">0..*</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1058.83,238 1020,238 1020,400 719.626,400 719.626,780 719.626,780 "/>
+    <polygon style="fill: #000000" points="1084,238 1070,242.8 1056,238 1070,233.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1084,238 1070,242.8 1056,238 1070,233.2 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="869.813" y="396"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1052" y="234">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.626" y="760"> &lt;&lt;OR&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.626" y="776">0..*</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="760,810 773.5,810 778,814.5 778,832.5 760,832.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760,810 773.5,810 778,814.5 778,832.5 760,832.5 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="773.5,810 773.5,814.5 778,814.5 778,814.5 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="830,630 843.5,630 848,634.5 848,652.5 830,652.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="830,630 843.5,630 848,634.5 848,652.5 830,652.5 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="843.5,630 843.5,634.5 848,634.5 848,634.5 "/>
+  </g>
 </svg>
