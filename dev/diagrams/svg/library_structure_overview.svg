@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="16cm" viewBox="158 78 803 303" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <rect style="fill: #f1f1f1; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="160" y="80" width="800" height="300" rx="20" ry="20"/>
+    <rect style="fill: #e7e9ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="480" y="260" width="120" height="100" rx="20" ry="20"/>
+    <rect style="fill: #ffd8db; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="788" y="260" width="120" height="100" rx="20" ry="20"/>
+    <rect style="fill: #ffffd2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="180" y="260" width="120" height="100" rx="20" ry="20"/>
+    <rect style="fill: #edffec; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="320" y="260" width="140" height="100" rx="20" ry="20"/>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="340" y="280" width="94.35" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="387.175" y="301.9">
+        <tspan x="387.175" y="301.9">Component</tspan>
+      </text>
+    </g>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="340" y="340">
+      <tspan x="340" y="340">Component Directory</tspan>
+      <tspan x="340" y="351.289">./cmp/&lt;UUID&gt;/</tspan>
+    </text>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="200" y="340">
+      <tspan x="200" y="340">Symbol Directory</tspan>
+      <tspan x="200" y="351.289">./sym/&lt;UUID&gt;/</tspan>
+    </text>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="808" y="340">
+      <tspan x="808" y="340">Package Directory</tspan>
+      <tspan x="808" y="351.289">./pkg/&lt;UUID&gt;/</tspan>
+    </text>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="500" y="340">
+      <tspan x="500" y="340">Device Directory</tspan>
+      <tspan x="500" y="351.289">./dev/&lt;UUID&gt;/</tspan>
+    </text>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="180" y="100">
+      <tspan x="180" y="100">Library Directory: MyLibrary.lplib</tspan>
+    </text>
+    <rect style="fill: #81ff81; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="372" y="100" width="200" height="120" rx="20" ry="20"/>
+    <rect style="fill: #ff7b7b; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="760" y="100" width="180" height="120" rx="20" ry="20"/>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="392" y="120">
+      <tspan x="392" y="120">Component Category Directory</tspan>
+      <tspan x="392" y="131.289">./cmpcat/&lt;UUID&gt;/</tspan>
+    </text>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="780" y="120">
+      <tspan x="780" y="120">Package Category Directory</tspan>
+      <tspan x="780" y="131.289">./pkgcat/&lt;UUID&gt;/</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="392" y="140" width="156.95" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="470.475" y="161.9">
+        <tspan x="470.475" y="161.9">Component Category</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #008000" points="470.475,201.172 470.475,235 387.175,235 387.175,280 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #008000" fill-rule="evenodd" points="470.475,176 475.275,190 470.475,204 465.675,190 "/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="428.825" y="231.8"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="481.475" y="188">0..*</text>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="391.175" y="276">0..*</text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #008000" points="470.475,201.172 470.475,235 540,235 540,280 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #008000" fill-rule="evenodd" points="470.475,176 475.275,190 470.475,204 465.675,190 "/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="505.238" y="231.8"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="481.475" y="188">0..*</text>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="544" y="276">0..*</text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #008000" points="470.475,201.172 470.475,235 240,235 240,280 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #008000" fill-rule="evenodd" points="470.475,176 475.275,190 470.475,204 465.675,190 "/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="355.238" y="231.8"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="481.475" y="188">0..*</text>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="244" y="276">0..*</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="780" y="140" width="135.75" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="847.875" y="161.9">
+        <tspan x="847.875" y="161.9">Package Category</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #a52a2a" points="847.875,201.172 847.875,235 848,235 848,280 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #a52a2a" fill-rule="evenodd" points="847.875,176 852.675,190 847.875,204 843.075,190 "/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #a52a2a; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="847.937" y="231.8"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #a52a2a; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="858.875" y="188">0..*</text>
+      <text xml:space="preserve" font-size="12.8" style="fill: #a52a2a; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="852" y="276">0..*</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="500" y="280" width="80" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="301.9">
+        <tspan x="540" y="301.9">Device</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="808" y="280" width="80" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848" y="301.9">
+        <tspan x="848" y="301.9">Package</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="200" y="280" width="80" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="301.9">
+        <tspan x="240" y="301.9">Symbol</tspan>
+      </text>
+    </g>
+    <text xml:space="preserve" font-size="9.59556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:italic;font-weight:normal" x="180" y="160">
+      <tspan x="180" y="160">The directory name of each library </tspan>
+      <tspan x="180" y="171.994">element (but not of the library itself) </tspan>
+      <tspan x="180" y="183.989">equals to the UUID of the contained </tspan>
+      <tspan x="180" y="195.983">element.</tspan>
+    </text>
+    <rect style="fill: #ffce8e; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="620" y="260" width="140" height="100" rx="20" ry="20"/>
+    <text xml:space="preserve" font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="640" y="340">
+      <tspan x="640" y="340">SPICE Model Directory</tspan>
+      <tspan x="640" y="351.289">./spc/&lt;UUID&gt;/</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="640" y="280" width="99.25" height="36" rx="10" ry="10"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="689.625" y="301.9">
+        <tspan x="689.625" y="301.9">SPICE Model</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #008000" points="470.475,201.172 470.475,235 689.625,235 689.625,280 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #008000" fill-rule="evenodd" points="470.475,176 475.275,190 470.475,204 465.675,190 "/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="580.05" y="231.8"/>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="481.475" y="188">0..*</text>
+      <text xml:space="preserve" font-size="12.8" style="fill: #008000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="693.625" y="276">0..*</text>
+    </g>
+  </g>
+</svg>

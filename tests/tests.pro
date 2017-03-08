@@ -13,34 +13,57 @@ GENERATED_DIR = ../generated
 # Use common project definitions
 include(../common.pri)
 
-QT += core
-QT -= gui widgets
+QT += core widgets network printsupport xml opengl sql concurrent
 
 CONFIG += console
 CONFIG -= app_bundle
 
 LIBS += \
     -L$${DESTDIR} \
-    -lgmock \
+    -lgoogletest \
+    -llibrepcbworkspace \
+    -llibrepcbproject \
     -llibrepcblibrary \    # Note: The order of the libraries is very important for the linker!
-    -llibrepcbcommon       # Another order could end up in "undefined reference" errors!
+    -llibrepcbcommon \     # Another order could end up in "undefined reference" errors!
+    -lquazip -lz
 
 INCLUDEPATH += \
-    ../3rdparty/gmock/gtest/include \
-    ../3rdparty/gmock/include \
+    ../libs/googletest/googletest/include \
+    ../libs/googletest/googlemock/include \
+    ../libs/quazip \
     ../libs
 
 DEPENDPATH += \
-    ../libs/librepcblibrary \
-    ../libs/librepcbcommon
+    ../libs/librepcb/workspace \
+    ../libs/librepcb/project \
+    ../libs/librepcb/library \
+    ../libs/librepcb/common \
+    ../libs/quazip \
 
 PRE_TARGETDEPS += \
-    $${DESTDIR}/libgmock.a \
+    $${DESTDIR}/libgoogletest.a \
+    $${DESTDIR}/liblibrepcbworkspace.a \
+    $${DESTDIR}/liblibrepcbproject.a \
     $${DESTDIR}/liblibrepcblibrary.a \
-    $${DESTDIR}/liblibrepcbcommon.a
+    $${DESTDIR}/liblibrepcbcommon.a \
+    $${DESTDIR}/libquazip.a
 
-SOURCES += main.cpp \
+SOURCES += \
+    common/applicationtest.cpp \
+    common/directorylocktest.cpp \
+    common/filedownloadtest.cpp \
     common/filepathtest.cpp \
-    common/pointtest.cpp
+    common/networkrequesttest.cpp \
+    common/pointtest.cpp \
+    common/scopeguardtest.cpp \
+    common/sqlitedatabasetest.cpp \
+    common/systeminfotest.cpp \
+    common/uuidtest.cpp \
+    common/versiontest.cpp \
+    main.cpp \
+    project/projecttest.cpp \
+    workspace/workspacetest.cpp \
 
-HEADERS +=
+HEADERS += \
+    common/networkrequestbasesignalreceiver.h \
+

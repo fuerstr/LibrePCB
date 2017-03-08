@@ -1,6 +1,6 @@
 /*
  * LibrePCB - Professional EDA for everyone!
- * Copyright (C) 2013 Urban Bruhin
+ * Copyright (C) 2013 LibrePCB Developers, see AUTHORS.md for contributors.
  * http://librepcb.org/
  *
  * This program is free software: you can redistribute it and/or modify
@@ -23,9 +23,13 @@
 
 #include <QtCore>
 #include <gtest/gtest.h>
-#include <librepcbcommon/units/point.h>
-#include <librepcbcommon/units/angle.h>
+#include <librepcb/common/units/point.h>
+#include <librepcb/common/units/angle.h>
 
+/*****************************************************************************************
+ *  Namespace
+ ****************************************************************************************/
+namespace librepcb {
 namespace tests {
 
 /*****************************************************************************************
@@ -92,3 +96,4 @@ INSTANTIATE_TEST_CASE_P(PointTest, PointTest, ::testing::Values(
  ****************************************************************************************/
 
 } // namespace tests
+} // namespace librepcb

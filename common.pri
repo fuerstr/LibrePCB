@@ -12,6 +12,9 @@ macx:DESTDIR = $${GENERATED_DIR}/mac
 unix:!macx:DESTDIR = $${GENERATED_DIR}/unix
 win32:DESTDIR = $${GENERATED_DIR}/windows
 
+# set destination path to share directory
+SHARE_DIR = $$shadowed($$absolute_path($${GENERATED_DIR}/share, $$_PRO_FILE_PWD_))
+
 # use separate folders for different types of files
 OBJECTS_DIR = obj
 MOC_DIR = moc
@@ -20,7 +23,7 @@ UI_DIR = ui
 UI_HEADERS_DIR = ui
 UI_SOURCES_DIR = ui
 
-#is qt version sufficient
+# is qt version sufficient
 lessThan(QT_MAJOR_VERSION, 5) {
     error("Qt version $$[QT_VERSION] is too old, should be version 5.2 or newer!")
 } else {
@@ -37,7 +40,5 @@ CONFIG += warn_on
 QMAKE_CXXFLAGS += -Wextra
 QMAKE_CXXFLAGS_DEBUG += -Wextra
 
-# Define the application version
-DEFINES += APP_VERSION_MAJOR=0
-DEFINES += APP_VERSION_MINOR=1
-DEFINES += APP_VERSION_PATCH=0
+# QuaZIP: use as static library
+DEFINES += QUAZIP_STATIC
